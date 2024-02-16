@@ -5,5 +5,5 @@
  * @author dell
  *
  */
-module Employ_Project {
+module DemoJava {
 }
